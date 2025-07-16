@@ -6,7 +6,7 @@ model = YOLO('best.pt')
 
 # To use a video file instead of a webcam, uncomment the line below
 # and replace 'path/to/your/video.mp4' with your video's path.
-cap = cv2.VideoCapture('test2.mp4')
+cap = cv2.VideoCapture('test1.mp4')
 
 # To use the webcam
 #cap = cv2.VideoCapture(0)

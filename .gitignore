@@ -4,6 +4,8 @@ venv/
 # Python cache
 __pycache__/
 *.pyc
+
+# macOS system file
 .DS_Store
 
 # Datasets (should not be in Git)
@@ -14,3 +16,6 @@ runs/
 best.pt
 test1.mp4
 test2.mp4
+
+# Temporary uploads folder
+uploads/

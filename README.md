@@ -84,3 +84,7 @@ The model was trained for 10 epochs on the "PPE Detection v3" dataset from Robof
 | **Overall** | 0.72      | 0.715  | 0.735 | 0.456    |
 | **`head_helmet`** | 0.784     | 0.824  | 0.866 | 0.584    |
 | **`vest`** | 0.841     | 0.897  | 0.935 | 0.705    |
+
+<img width="1440" height="810" alt="Screenshot 2025-07-16 at 11 53 44 AM" src="https://github.com/user-attachments/assets/d01fadda-a590-4525-acbc-7006c007cd19" />
+<img width="1314" height="771" alt="Screenshot 2025-07-16 at 11 55 09 AM" src="https://github.com/user-attachments/assets/0fe27deb-48b2-4dae-bfc2-6fec0673bfa1" />
+

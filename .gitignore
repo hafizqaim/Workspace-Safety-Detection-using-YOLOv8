@@ -4,6 +4,7 @@ venv/
 # Python cache
 __pycache__/
 *.pyc
+.DS_Store
 
 # Datasets (should not be in Git)
 datasets/

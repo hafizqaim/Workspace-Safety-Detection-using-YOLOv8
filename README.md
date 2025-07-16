@@ -1,5 +1,7 @@
 # Workplace Safety PPE Detection using YOLOv8
 
+**DEMO: https://huggingface.co/spaces/hafizqaim/Workspace-Safety-Detection**
+
 This project provides a real-time object detection system to monitor whether people in a workplace environment are wearing essential Personal Protective Equipment (PPE), specifically safety helmets and vests. The system is built using the YOLOv8 model.
 
 ---

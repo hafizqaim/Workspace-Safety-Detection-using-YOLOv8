@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets (should not be in Git)
+datasets/
+
+# YOLOv8 runs and trained models (these are outputs)
+runs/
+best.pt
+test1.mp4
+test2.mp4
